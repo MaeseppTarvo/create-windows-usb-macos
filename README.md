@@ -30,7 +30,7 @@ Create a Windows 10/11 bootable USB stick **entirely from macOS command line**, 
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/yourname/create-windows-usb-macos.git
+   git clone https://github.com/MaeseppTarvo/create-windows-usb-macos.git
    cd create-windows-usb-macos
    ```
 
@@ -76,7 +76,7 @@ to identify your USB device.
 ## 📃 License
 
 MIT — fork it, improve it, and tag me if you survived the same pain.  
-Made with frustration by [@tarvo](https://github.com/yourusername) and [@chad](https://chatgpt.com)
+Made with frustration by [@tarvo](https://github.com/MaeseppTarvo) and [@chad](https://chatgpt.com)
 
 ---
 
